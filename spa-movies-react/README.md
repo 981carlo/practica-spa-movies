@@ -97,7 +97,3 @@ src/
 - navegación entre páginas
 - cards con imagen, calificación y enlace al detalle
 - mensajes cuando no se encuentran resultados
-
-## 8. Notas
-
-Esta aplicación usa la API de TMDB para obtener información de películas.
